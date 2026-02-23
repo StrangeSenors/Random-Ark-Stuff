@@ -76,7 +76,7 @@
         },
         {
             "dinoType": "/Game/PrimalEarth/Dinos/Hesperornis/Hesperornis_Character_BP.Hesperornis_Character_BP",
-            "chanceToProduce": 1.0,
+            "chanceToProduce": 0.25,
             "produces": [
                 {
                     "intervalSeconds": 1200.0,
